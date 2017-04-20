@@ -1,0 +1,12 @@
+README.rst
+super_source/__init__.py
+super_source/constants.py
+super_source/exceptions.py
+super_source/organization.py
+super_source/project.py
+super_source/user.py
+super_source.egg-info/PKG-INFO
+super_source.egg-info/SOURCES.txt
+super_source.egg-info/dependency_links.txt
+super_source.egg-info/not-zip-safe
+super_source.egg-info/top_level.txt
